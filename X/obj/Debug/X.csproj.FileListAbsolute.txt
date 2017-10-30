@@ -2,3 +2,8 @@ C:\Users\Administrador\Desktop\tmp\rsms\X\X\bin\Debug\X.dll
 C:\Users\Administrador\Desktop\tmp\rsms\X\X\bin\Debug\X.pdb
 C:\Users\Administrador\Desktop\tmp\rsms\X\X\obj\Debug\X.dll
 C:\Users\Administrador\Desktop\tmp\rsms\X\X\obj\Debug\X.pdb
+Z:\rsms\X\X\obj\Debug\X.pdb
+Z:\rsms\X\X\obj\Debug\X.csprojResolveAssemblyReference.cache
+Z:\rsms\X\X\bin\Debug\X.dll
+Z:\rsms\X\X\bin\Debug\X.pdb
+Z:\rsms\X\X\obj\Debug\X.dll
